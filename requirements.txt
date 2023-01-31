@@ -1,4 +1,4 @@
-setuptools==18.5
+setuptools==65.5.1
 google_api_python_client==1.6.1
 termcolor==1.1.0
 PyYAML==3.12
